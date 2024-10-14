@@ -1,0 +1,103 @@
+data engg in 2 layers (in folder straucture ) of staging,datawarehouse (to make dimension tbales),datamart layer .
+i have to make fact and dimension tables. do in each layer according to the data
+in my opinion,lets create the userskillproficiency, courseskill,designationskill normalised tables in the dimension layer. it will be an added step to be able to show
+define hierarchy in designations. 
+data_engineering/
+├── datascience/
+│   ├── pred.ipynb
+├── staging/
+│   ├── raw/
+│   │   ├── users.csv
+│   │   ├── courses.csv
+│   │   ├── designations.csv
+│   │   ├── skills.csv
+│   │   ├── progress.csv
+│   │   ├── user_skills.csv
+│   │   └── course_skills.csv
+│   └── transformed/
+│       ├── transformed_users.csv
+│       ├── transformed_courses.csv
+│       └── transformed_progress.csv
+│       └── transformed_users.ipynb
+│       └── transformed_progress.ipynb
+│       └── transformed_coursess.ipynb
+│
+├── mart/
+│   ├── dimension/
+│   │   ├── dim_users.csv
+│   │   ├── dim_courses.csv
+│   │   ├── dim_designations.csv
+│   │   ├── dim_skills.csv
+│   ├── fact/
+│   │   ├── fact_course_progress.csv
+│   │   ├── courses_taken.csv
+│   │   ├── mart_course_progress.csv
+│   │   ├── mart_course_skills.csv
+│   │   ├── mart_designation_course.csv
+│   │   ├── mart_designation_skills.csv
+│   │   ├── mart_user_course_completion.csv
+│   │   ├── mart_user_skills.csv
+├── reporting/
+│       ├── mart_course_completion.csv
+│       └── fact_course_progress.csv
+
+
+
+do this for fact_course_progress.csv :
+completion rate: everage number of days users havve taken to go from 0 to a 100percent completed on a course
+
+progress_df['at_risk'] = (progress_df['percentage_completed'] < 50).astype(int)  # Flag users with less than 50% progress when the date of course assigned (first entry of that user with that course in progress table) has exceeded 15days
+
+
+
+total courses completed per user,
+
+
+
+for reporting and shit:
+#average_duration_by_proficiency = courses_df.groupby('proficiency_level')['duration'].mean().reset_index()
+
+
+#fact_course : avg rate of which users are completing this course. 
+             : completed by all users (no user has this course active)
+
+#fact user:total courses completed per user
+
+
+
+
+
+
+tables i have :C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\transformed\transformed_courses.csv
+courseId,title,proficiency_level,chapters,duration,course_age,duration_category,proficiency_level_encoded,created_day,created_month,created_year
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\transformed\trans_prog.ipynb
+id,courseId,userId,chapters_completed,percentage_completed,certificate,updated_day,updated_month,updated_year,progress_category
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\transformed\transf_user.ipynb
+user_id,user_name,email,role,designation_id,sex,years_of_experience,join_date,join_year,join_month,join_day,tenure
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\raw\user_skills.csv
+id,userId,skillId,Proficiency_level
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\raw\skills.csv
+id,name
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\raw\designations.csv
+id,title
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\raw\designations_skill.csv
+designation_id,skill_id
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\raw\course_skills.csv
+id,courseId,skillId
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\staging\raw\courses.csv
+id,title,proficiency_level,no_of_chapters,duration,createdAt
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\marts\fact\fact_users.csv
+user_id,user_name,email,designation_id,sex,years_of_experience,join_date,join_year,join_month,join_day,tenure,progress_id,courseId,userId,chapters_completed,percentage_completed,certificate,updated_day,updated_month,updated_year,progress_category,course_id,proficiency_level,beginner_comp_rate,intermediate_comp_rate,advanced_comp_rate
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\reporting\fact_course_progress.csv
+courseId,title,proficiency_level,chapters,duration,course_age,duration_category,proficiency_level_encoded,created_day,created_month,created_year,total_days_to_complete,total_users_completed,median_completion_time,total_users_with_certificate,average_days_to_complete,completion_rate,total_chapters,percentage_completed,last_update_date
+
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\reporting\mart_course_completion.csv
+courseId,title,proficiency_level,duration,total_chapters,total_users_enrolled,total_users_completed,completion_rate,average_days_to_complete,median_completion_time,total_users_with_certificate,last_update_date,certificate_rate
+C:\Users\AnanyaSarkar\Documents\project\datascienceandengg\reporting\rep_prog.ipynb

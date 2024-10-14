@@ -1,0 +1,912 @@
+userId,skillId,name,Proficiency_level
+1,15,Python,Intermediate
+1,27,Agile Methodologies,Beginner
+1,19,DBT,Intermediate
+2,10,CSS,Intermediate
+2,32,Conflict Resolution,Intermediate
+3,7,Go,Intermediate
+3,26,Networking Fundamentals,Beginner
+4,24,Cloud Computing,Intermediate
+4,20,Snowflake,Advanced
+5,22,PowerBI,Beginner
+5,17,Machine Learning,Advanced
+5,31,HR Information Systems (HRIS),Intermediate
+5,2,Java Swing,Intermediate
+6,7,Go,Intermediate
+6,10,CSS,Advanced
+6,11,JavaScript,Intermediate
+6,2,Java Swing,Intermediate
+6,27,Agile Methodologies,Beginner
+7,2,Java Swing,Intermediate
+7,19,DBT,Beginner
+7,27,Agile Methodologies,Intermediate
+7,25,Cybersecurity,Beginner
+8,32,Conflict Resolution,Advanced
+8,30,Recruitment and Selection,Advanced
+8,31,HR Information Systems (HRIS),Intermediate
+8,21,Azure,Beginner
+8,27,Agile Methodologies,Advanced
+9,8,Django,Intermediate
+9,17,Machine Learning,Intermediate
+9,7,Go,Beginner
+9,3,SQL,Beginner
+9,31,HR Information Systems (HRIS),Advanced
+10,11,JavaScript,Advanced
+10,6,C++,Beginner
+10,25,Cybersecurity,Intermediate
+10,20,Snowflake,Beginner
+10,28,Employee Relations,Intermediate
+11,4,C,Beginner
+11,27,Agile Methodologies,Beginner
+11,19,DBT,Advanced
+11,30,Recruitment and Selection,Beginner
+12,1,Java,Advanced
+12,6,C++,Intermediate
+12,17,Machine Learning,Beginner
+13,4,C,Beginner
+13,10,CSS,Beginner
+13,7,Go,Intermediate
+13,30,Recruitment and Selection,Intermediate
+13,19,DBT,Beginner
+14,22,PowerBI,Advanced
+14,29,Performance Management,Advanced
+14,18,Data Analysis,Intermediate
+15,13,Next.js,Intermediate
+15,32,Conflict Resolution,Intermediate
+15,24,Cloud Computing,Beginner
+15,12,Node.js,Beginner
+15,7,Go,Intermediate
+16,8,Django,Advanced
+16,31,HR Information Systems (HRIS),Intermediate
+16,14,TypeScript,Intermediate
+16,12,Node.js,Beginner
+16,24,Cloud Computing,Advanced
+17,7,Go,Advanced
+17,9,HTML,Beginner
+17,21,Azure,Beginner
+17,31,HR Information Systems (HRIS),Beginner
+18,6,C++,Intermediate
+18,9,HTML,Intermediate
+19,2,Java Swing,Intermediate
+19,9,HTML,Intermediate
+19,25,Cybersecurity,Intermediate
+20,28,Employee Relations,Advanced
+21,10,CSS,Beginner
+21,1,Java,Beginner
+21,25,Cybersecurity,Advanced
+21,30,Recruitment and Selection,Beginner
+21,2,Java Swing,Advanced
+22,31,HR Information Systems (HRIS),Intermediate
+22,2,Java Swing,Advanced
+22,14,TypeScript,Advanced
+23,10,CSS,Advanced
+24,14,TypeScript,Advanced
+24,15,Python,Advanced
+25,5,C#,Advanced
+26,5,C#,Beginner
+27,29,Performance Management,Advanced
+27,8,Django,Beginner
+27,11,JavaScript,Advanced
+27,5,C#,Beginner
+28,20,Snowflake,Advanced
+28,28,Employee Relations,Advanced
+28,11,JavaScript,Advanced
+29,9,HTML,Beginner
+29,4,C,Beginner
+29,22,PowerBI,Advanced
+29,1,Java,Intermediate
+30,9,HTML,Advanced
+31,25,Cybersecurity,Beginner
+31,3,SQL,Beginner
+31,2,Java Swing,Advanced
+31,28,Employee Relations,Intermediate
+32,25,Cybersecurity,Beginner
+33,9,HTML,Advanced
+34,22,PowerBI,Advanced
+34,9,HTML,Intermediate
+34,5,C#,Beginner
+34,2,Java Swing,Beginner
+34,23,Data Structures,Intermediate
+35,21,Azure,Beginner
+35,26,Networking Fundamentals,Advanced
+36,25,Cybersecurity,Intermediate
+36,1,Java,Advanced
+36,9,HTML,Intermediate
+37,6,C++,Intermediate
+37,10,CSS,Intermediate
+37,2,Java Swing,Beginner
+37,14,TypeScript,Advanced
+37,18,Data Analysis,Intermediate
+38,28,Employee Relations,Advanced
+38,24,Cloud Computing,Beginner
+39,8,Django,Beginner
+39,11,JavaScript,Advanced
+40,10,CSS,Beginner
+40,8,Django,Advanced
+40,17,Machine Learning,Intermediate
+40,21,Azure,Intermediate
+41,20,Snowflake,Advanced
+41,12,Node.js,Intermediate
+41,16,DevOps,Intermediate
+41,28,Employee Relations,Beginner
+41,27,Agile Methodologies,Advanced
+42,9,HTML,Beginner
+42,19,DBT,Advanced
+42,6,C++,Beginner
+43,23,Data Structures,Advanced
+43,9,HTML,Intermediate
+43,10,CSS,Intermediate
+43,22,PowerBI,Advanced
+43,20,Snowflake,Beginner
+44,7,Go,Advanced
+44,22,PowerBI,Intermediate
+44,21,Azure,Beginner
+44,25,Cybersecurity,Beginner
+44,8,Django,Advanced
+45,8,Django,Intermediate
+45,22,PowerBI,Beginner
+45,31,HR Information Systems (HRIS),Advanced
+45,6,C++,Beginner
+46,4,C,Advanced
+46,8,Django,Intermediate
+46,26,Networking Fundamentals,Advanced
+46,10,CSS,Advanced
+47,9,HTML,Advanced
+47,23,Data Structures,Beginner
+47,16,DevOps,Beginner
+47,12,Node.js,Intermediate
+47,4,C,Intermediate
+48,30,Recruitment and Selection,Advanced
+48,22,PowerBI,Intermediate
+49,13,Next.js,Advanced
+49,17,Machine Learning,Advanced
+49,30,Recruitment and Selection,Beginner
+49,9,HTML,Beginner
+49,24,Cloud Computing,Intermediate
+50,6,C++,Beginner
+50,5,C#,Beginner
+51,23,Data Structures,Advanced
+51,20,Snowflake,Advanced
+51,22,PowerBI,Intermediate
+51,10,CSS,Advanced
+51,13,Next.js,Beginner
+52,32,Conflict Resolution,Intermediate
+53,20,Snowflake,Beginner
+53,28,Employee Relations,Beginner
+53,3,SQL,Intermediate
+53,32,Conflict Resolution,Beginner
+54,12,Node.js,Beginner
+54,30,Recruitment and Selection,Intermediate
+54,16,DevOps,Intermediate
+55,12,Node.js,Beginner
+55,31,HR Information Systems (HRIS),Intermediate
+55,13,Next.js,Intermediate
+56,7,Go,Intermediate
+56,3,SQL,Advanced
+57,24,Cloud Computing,Advanced
+57,14,TypeScript,Beginner
+57,8,Django,Beginner
+57,2,Java Swing,Intermediate
+58,9,HTML,Beginner
+58,20,Snowflake,Advanced
+58,4,C,Intermediate
+58,2,Java Swing,Advanced
+59,24,Cloud Computing,Intermediate
+59,13,Next.js,Beginner
+60,8,Django,Intermediate
+60,28,Employee Relations,Advanced
+61,15,Python,Advanced
+61,31,HR Information Systems (HRIS),Advanced
+61,23,Data Structures,Advanced
+62,27,Agile Methodologies,Beginner
+62,30,Recruitment and Selection,Advanced
+62,14,TypeScript,Advanced
+63,32,Conflict Resolution,Advanced
+63,16,DevOps,Advanced
+63,26,Networking Fundamentals,Beginner
+64,1,Java,Advanced
+64,31,HR Information Systems (HRIS),Beginner
+65,18,Data Analysis,Advanced
+65,3,SQL,Beginner
+65,17,Machine Learning,Advanced
+65,25,Cybersecurity,Beginner
+65,4,C,Advanced
+66,2,Java Swing,Advanced
+66,25,Cybersecurity,Advanced
+66,23,Data Structures,Advanced
+66,16,DevOps,Beginner
+67,18,Data Analysis,Advanced
+67,24,Cloud Computing,Beginner
+67,20,Snowflake,Advanced
+68,23,Data Structures,Advanced
+68,8,Django,Advanced
+68,19,DBT,Beginner
+68,12,Node.js,Advanced
+68,13,Next.js,Beginner
+69,30,Recruitment and Selection,Intermediate
+70,22,PowerBI,Advanced
+70,6,C++,Advanced
+70,31,HR Information Systems (HRIS),Intermediate
+70,5,C#,Advanced
+70,8,Django,Advanced
+71,29,Performance Management,Beginner
+72,13,Next.js,Beginner
+72,24,Cloud Computing,Beginner
+72,12,Node.js,Intermediate
+73,13,Next.js,Beginner
+73,14,TypeScript,Advanced
+73,18,Data Analysis,Advanced
+73,24,Cloud Computing,Intermediate
+73,3,SQL,Intermediate
+74,28,Employee Relations,Advanced
+74,1,Java,Beginner
+74,7,Go,Intermediate
+74,26,Networking Fundamentals,Beginner
+74,15,Python,Advanced
+75,19,DBT,Beginner
+75,5,C#,Beginner
+76,24,Cloud Computing,Intermediate
+76,6,C++,Intermediate
+76,26,Networking Fundamentals,Intermediate
+76,8,Django,Advanced
+76,3,SQL,Beginner
+77,20,Snowflake,Advanced
+77,4,C,Beginner
+77,17,Machine Learning,Beginner
+77,3,SQL,Beginner
+78,15,Python,Intermediate
+79,29,Performance Management,Beginner
+79,21,Azure,Advanced
+80,24,Cloud Computing,Intermediate
+80,16,DevOps,Advanced
+81,26,Networking Fundamentals,Beginner
+81,28,Employee Relations,Beginner
+81,15,Python,Advanced
+81,19,DBT,Intermediate
+82,11,JavaScript,Advanced
+83,8,Django,Intermediate
+83,27,Agile Methodologies,Beginner
+83,12,Node.js,Intermediate
+83,22,PowerBI,Beginner
+84,19,DBT,Intermediate
+85,29,Performance Management,Beginner
+85,25,Cybersecurity,Intermediate
+85,28,Employee Relations,Beginner
+85,19,DBT,Advanced
+85,22,PowerBI,Intermediate
+86,21,Azure,Intermediate
+86,3,SQL,Beginner
+86,19,DBT,Advanced
+86,8,Django,Beginner
+87,29,Performance Management,Advanced
+87,8,Django,Beginner
+87,15,Python,Beginner
+88,25,Cybersecurity,Advanced
+88,11,JavaScript,Intermediate
+88,22,PowerBI,Intermediate
+88,21,Azure,Intermediate
+89,17,Machine Learning,Advanced
+90,29,Performance Management,Intermediate
+90,21,Azure,Beginner
+91,29,Performance Management,Intermediate
+91,3,SQL,Advanced
+91,17,Machine Learning,Advanced
+91,31,HR Information Systems (HRIS),Advanced
+92,15,Python,Advanced
+93,19,DBT,Advanced
+93,12,Node.js,Intermediate
+93,14,TypeScript,Intermediate
+94,19,DBT,Advanced
+94,3,SQL,Beginner
+95,8,Django,Beginner
+95,5,C#,Beginner
+95,24,Cloud Computing,Intermediate
+95,13,Next.js,Intermediate
+95,23,Data Structures,Intermediate
+96,29,Performance Management,Intermediate
+97,28,Employee Relations,Beginner
+98,17,Machine Learning,Intermediate
+98,20,Snowflake,Intermediate
+99,19,DBT,Intermediate
+99,3,SQL,Advanced
+99,32,Conflict Resolution,Intermediate
+99,4,C,Intermediate
+100,15,Python,Advanced
+100,24,Cloud Computing,Intermediate
+101,3,SQL,Advanced
+101,11,JavaScript,Advanced
+101,10,CSS,Advanced
+102,7,Go,Beginner
+102,14,TypeScript,Advanced
+102,2,Java Swing,Intermediate
+103,26,Networking Fundamentals,Beginner
+104,27,Agile Methodologies,Beginner
+104,1,Java,Intermediate
+104,24,Cloud Computing,Advanced
+104,16,DevOps,Beginner
+105,29,Performance Management,Beginner
+105,10,CSS,Beginner
+105,24,Cloud Computing,Intermediate
+106,32,Conflict Resolution,Beginner
+106,5,C#,Advanced
+106,8,Django,Intermediate
+106,28,Employee Relations,Beginner
+106,13,Next.js,Beginner
+107,5,C#,Beginner
+107,28,Employee Relations,Beginner
+107,12,Node.js,Intermediate
+107,32,Conflict Resolution,Intermediate
+107,27,Agile Methodologies,Beginner
+108,25,Cybersecurity,Advanced
+108,8,Django,Intermediate
+108,9,HTML,Advanced
+108,13,Next.js,Intermediate
+108,22,PowerBI,Advanced
+109,24,Cloud Computing,Beginner
+110,31,HR Information Systems (HRIS),Advanced
+110,16,DevOps,Intermediate
+110,22,PowerBI,Intermediate
+110,3,SQL,Advanced
+110,21,Azure,Advanced
+111,31,HR Information Systems (HRIS),Beginner
+111,2,Java Swing,Beginner
+111,8,Django,Beginner
+111,20,Snowflake,Intermediate
+111,17,Machine Learning,Intermediate
+112,28,Employee Relations,Intermediate
+112,11,JavaScript,Advanced
+113,23,Data Structures,Advanced
+113,6,C++,Intermediate
+113,32,Conflict Resolution,Intermediate
+113,29,Performance Management,Advanced
+114,24,Cloud Computing,Advanced
+114,13,Next.js,Beginner
+114,16,DevOps,Advanced
+115,20,Snowflake,Beginner
+115,24,Cloud Computing,Beginner
+116,9,HTML,Beginner
+116,22,PowerBI,Intermediate
+117,16,DevOps,Intermediate
+117,13,Next.js,Advanced
+118,5,C#,Intermediate
+118,15,Python,Beginner
+118,21,Azure,Advanced
+118,12,Node.js,Beginner
+118,23,Data Structures,Beginner
+119,9,HTML,Intermediate
+119,8,Django,Intermediate
+119,12,Node.js,Intermediate
+119,13,Next.js,Advanced
+119,22,PowerBI,Beginner
+120,30,Recruitment and Selection,Intermediate
+120,1,Java,Advanced
+120,32,Conflict Resolution,Advanced
+120,18,Data Analysis,Intermediate
+121,15,Python,Advanced
+121,18,Data Analysis,Advanced
+121,19,DBT,Beginner
+121,8,Django,Intermediate
+122,25,Cybersecurity,Beginner
+123,21,Azure,Beginner
+123,27,Agile Methodologies,Beginner
+124,12,Node.js,Beginner
+124,27,Agile Methodologies,Beginner
+125,30,Recruitment and Selection,Intermediate
+125,19,DBT,Beginner
+125,29,Performance Management,Intermediate
+126,19,DBT,Intermediate
+126,27,Agile Methodologies,Advanced
+127,12,Node.js,Advanced
+127,9,HTML,Intermediate
+127,30,Recruitment and Selection,Advanced
+127,3,SQL,Advanced
+128,24,Cloud Computing,Advanced
+128,5,C#,Advanced
+128,28,Employee Relations,Beginner
+129,10,CSS,Beginner
+129,13,Next.js,Advanced
+130,7,Go,Beginner
+130,1,Java,Advanced
+130,27,Agile Methodologies,Intermediate
+131,2,Java Swing,Beginner
+131,22,PowerBI,Intermediate
+131,13,Next.js,Beginner
+131,15,Python,Advanced
+131,17,Machine Learning,Beginner
+132,5,C#,Intermediate
+133,13,Next.js,Advanced
+133,2,Java Swing,Advanced
+134,18,Data Analysis,Advanced
+134,12,Node.js,Advanced
+134,20,Snowflake,Intermediate
+135,32,Conflict Resolution,Beginner
+136,9,HTML,Intermediate
+136,26,Networking Fundamentals,Beginner
+137,28,Employee Relations,Intermediate
+137,25,Cybersecurity,Intermediate
+137,20,Snowflake,Intermediate
+137,26,Networking Fundamentals,Beginner
+137,5,C#,Beginner
+138,2,Java Swing,Advanced
+138,6,C++,Beginner
+139,4,C,Intermediate
+139,26,Networking Fundamentals,Beginner
+139,29,Performance Management,Beginner
+139,23,Data Structures,Intermediate
+139,28,Employee Relations,Intermediate
+140,19,DBT,Intermediate
+140,3,SQL,Intermediate
+140,5,C#,Intermediate
+141,10,CSS,Advanced
+141,2,Java Swing,Intermediate
+141,26,Networking Fundamentals,Intermediate
+141,31,HR Information Systems (HRIS),Beginner
+142,24,Cloud Computing,Advanced
+142,20,Snowflake,Beginner
+142,23,Data Structures,Advanced
+142,4,C,Advanced
+143,4,C,Intermediate
+144,6,C++,Advanced
+144,18,Data Analysis,Beginner
+144,14,TypeScript,Intermediate
+144,4,C,Advanced
+145,23,Data Structures,Advanced
+146,21,Azure,Intermediate
+146,10,CSS,Beginner
+146,11,JavaScript,Advanced
+146,13,Next.js,Beginner
+147,26,Networking Fundamentals,Advanced
+147,22,PowerBI,Intermediate
+147,24,Cloud Computing,Intermediate
+147,5,C#,Beginner
+148,21,Azure,Beginner
+149,17,Machine Learning,Beginner
+149,9,HTML,Beginner
+149,26,Networking Fundamentals,Advanced
+149,19,DBT,Intermediate
+150,11,JavaScript,Intermediate
+150,1,Java,Beginner
+150,26,Networking Fundamentals,Advanced
+150,30,Recruitment and Selection,Intermediate
+151,5,C#,Beginner
+152,31,HR Information Systems (HRIS),Advanced
+153,23,Data Structures,Advanced
+153,18,Data Analysis,Advanced
+154,8,Django,Beginner
+154,9,HTML,Advanced
+154,13,Next.js,Advanced
+154,12,Node.js,Intermediate
+155,23,Data Structures,Advanced
+155,17,Machine Learning,Advanced
+155,6,C++,Beginner
+156,29,Performance Management,Intermediate
+156,11,JavaScript,Advanced
+157,8,Django,Advanced
+158,24,Cloud Computing,Intermediate
+158,12,Node.js,Advanced
+159,19,DBT,Beginner
+159,20,Snowflake,Advanced
+160,18,Data Analysis,Intermediate
+160,9,HTML,Beginner
+160,20,Snowflake,Advanced
+161,19,DBT,Intermediate
+161,5,C#,Intermediate
+162,14,TypeScript,Intermediate
+162,11,JavaScript,Beginner
+162,26,Networking Fundamentals,Intermediate
+163,23,Data Structures,Beginner
+163,5,C#,Intermediate
+163,11,JavaScript,Intermediate
+163,8,Django,Beginner
+163,21,Azure,Intermediate
+164,17,Machine Learning,Intermediate
+164,19,DBT,Advanced
+164,13,Next.js,Beginner
+165,25,Cybersecurity,Advanced
+165,22,PowerBI,Intermediate
+165,17,Machine Learning,Advanced
+165,23,Data Structures,Intermediate
+165,24,Cloud Computing,Intermediate
+166,22,PowerBI,Beginner
+167,2,Java Swing,Beginner
+167,32,Conflict Resolution,Advanced
+168,11,JavaScript,Advanced
+168,23,Data Structures,Beginner
+168,14,TypeScript,Intermediate
+168,20,Snowflake,Beginner
+168,25,Cybersecurity,Beginner
+169,7,Go,Intermediate
+169,25,Cybersecurity,Beginner
+169,14,TypeScript,Beginner
+170,31,HR Information Systems (HRIS),Beginner
+170,23,Data Structures,Intermediate
+170,18,Data Analysis,Beginner
+170,17,Machine Learning,Intermediate
+171,32,Conflict Resolution,Advanced
+171,22,PowerBI,Intermediate
+171,29,Performance Management,Beginner
+171,27,Agile Methodologies,Intermediate
+171,4,C,Beginner
+172,10,CSS,Advanced
+172,23,Data Structures,Advanced
+172,14,TypeScript,Advanced
+173,16,DevOps,Advanced
+174,9,HTML,Advanced
+175,20,Snowflake,Intermediate
+175,31,HR Information Systems (HRIS),Intermediate
+175,24,Cloud Computing,Beginner
+176,12,Node.js,Advanced
+177,26,Networking Fundamentals,Advanced
+177,20,Snowflake,Intermediate
+177,11,JavaScript,Intermediate
+178,23,Data Structures,Intermediate
+178,17,Machine Learning,Beginner
+178,30,Recruitment and Selection,Advanced
+178,29,Performance Management,Advanced
+179,7,Go,Intermediate
+179,22,PowerBI,Beginner
+180,25,Cybersecurity,Intermediate
+180,8,Django,Advanced
+181,27,Agile Methodologies,Intermediate
+181,4,C,Intermediate
+181,15,Python,Intermediate
+181,24,Cloud Computing,Beginner
+181,11,JavaScript,Beginner
+182,10,CSS,Advanced
+183,31,HR Information Systems (HRIS),Intermediate
+183,5,C#,Beginner
+184,19,DBT,Advanced
+184,4,C,Advanced
+184,11,JavaScript,Beginner
+184,21,Azure,Intermediate
+185,12,Node.js,Intermediate
+185,5,C#,Intermediate
+185,31,HR Information Systems (HRIS),Beginner
+186,25,Cybersecurity,Advanced
+186,9,HTML,Intermediate
+186,27,Agile Methodologies,Advanced
+187,5,C#,Beginner
+187,30,Recruitment and Selection,Advanced
+188,27,Agile Methodologies,Advanced
+188,2,Java Swing,Advanced
+188,10,CSS,Intermediate
+188,28,Employee Relations,Beginner
+188,9,HTML,Intermediate
+189,14,TypeScript,Beginner
+189,4,C,Advanced
+189,12,Node.js,Beginner
+189,16,DevOps,Advanced
+190,26,Networking Fundamentals,Advanced
+190,28,Employee Relations,Beginner
+191,11,JavaScript,Advanced
+191,3,SQL,Advanced
+192,29,Performance Management,Beginner
+192,3,SQL,Intermediate
+193,29,Performance Management,Advanced
+193,14,TypeScript,Advanced
+193,16,DevOps,Advanced
+193,17,Machine Learning,Beginner
+193,13,Next.js,Beginner
+194,21,Azure,Advanced
+194,14,TypeScript,Intermediate
+194,27,Agile Methodologies,Advanced
+194,1,Java,Beginner
+194,17,Machine Learning,Advanced
+195,4,C,Advanced
+195,17,Machine Learning,Intermediate
+195,11,JavaScript,Beginner
+195,23,Data Structures,Intermediate
+195,13,Next.js,Beginner
+196,5,C#,Advanced
+196,17,Machine Learning,Beginner
+197,3,SQL,Intermediate
+197,26,Networking Fundamentals,Beginner
+197,4,C,Intermediate
+197,17,Machine Learning,Intermediate
+198,31,HR Information Systems (HRIS),Intermediate
+198,24,Cloud Computing,Intermediate
+198,5,C#,Beginner
+198,17,Machine Learning,Beginner
+198,12,Node.js,Intermediate
+199,26,Networking Fundamentals,Beginner
+200,32,Conflict Resolution,Advanced
+200,9,HTML,Advanced
+200,29,Performance Management,Beginner
+200,21,Azure,Beginner
+200,2,Java Swing,Advanced
+201,8,Django,Advanced
+201,16,DevOps,Beginner
+201,29,Performance Management,Intermediate
+201,4,C,Intermediate
+202,19,DBT,Beginner
+202,25,Cybersecurity,Intermediate
+203,17,Machine Learning,Intermediate
+203,23,Data Structures,Advanced
+204,10,CSS,Advanced
+205,4,C,Advanced
+205,24,Cloud Computing,Advanced
+205,1,Java,Beginner
+205,19,DBT,Intermediate
+206,12,Node.js,Advanced
+206,21,Azure,Advanced
+207,8,Django,Intermediate
+207,24,Cloud Computing,Intermediate
+208,28,Employee Relations,Advanced
+208,20,Snowflake,Intermediate
+208,3,SQL,Beginner
+209,9,HTML,Intermediate
+209,31,HR Information Systems (HRIS),Intermediate
+209,32,Conflict Resolution,Advanced
+209,15,Python,Intermediate
+209,10,CSS,Advanced
+210,6,C++,Intermediate
+210,16,DevOps,Intermediate
+211,23,Data Structures,Advanced
+212,4,C,Beginner
+213,24,Cloud Computing,Intermediate
+213,21,Azure,Advanced
+213,10,CSS,Beginner
+213,11,JavaScript,Intermediate
+213,22,PowerBI,Beginner
+214,21,Azure,Advanced
+214,30,Recruitment and Selection,Beginner
+214,18,Data Analysis,Advanced
+215,18,Data Analysis,Intermediate
+215,20,Snowflake,Advanced
+216,21,Azure,Beginner
+216,5,C#,Beginner
+217,10,CSS,Intermediate
+218,15,Python,Beginner
+218,26,Networking Fundamentals,Intermediate
+218,19,DBT,Intermediate
+218,27,Agile Methodologies,Advanced
+218,29,Performance Management,Intermediate
+219,5,C#,Advanced
+219,1,Java,Advanced
+219,7,Go,Intermediate
+219,31,HR Information Systems (HRIS),Advanced
+219,18,Data Analysis,Advanced
+220,9,HTML,Beginner
+220,13,Next.js,Beginner
+220,22,PowerBI,Beginner
+221,14,TypeScript,Intermediate
+222,21,Azure,Beginner
+222,16,DevOps,Advanced
+223,12,Node.js,Intermediate
+223,2,Java Swing,Intermediate
+223,15,Python,Advanced
+223,1,Java,Advanced
+223,5,C#,Beginner
+224,19,DBT,Intermediate
+225,18,Data Analysis,Advanced
+225,30,Recruitment and Selection,Beginner
+225,6,C++,Beginner
+226,25,Cybersecurity,Beginner
+226,6,C++,Intermediate
+227,1,Java,Intermediate
+227,12,Node.js,Beginner
+228,25,Cybersecurity,Intermediate
+229,32,Conflict Resolution,Intermediate
+229,14,TypeScript,Intermediate
+229,12,Node.js,Advanced
+229,29,Performance Management,Beginner
+230,6,C++,Beginner
+230,17,Machine Learning,Beginner
+230,9,HTML,Advanced
+230,7,Go,Advanced
+230,10,CSS,Advanced
+231,30,Recruitment and Selection,Advanced
+232,16,DevOps,Intermediate
+232,2,Java Swing,Advanced
+232,21,Azure,Beginner
+233,17,Machine Learning,Intermediate
+233,16,DevOps,Advanced
+233,15,Python,Beginner
+233,31,HR Information Systems (HRIS),Intermediate
+233,18,Data Analysis,Beginner
+234,23,Data Structures,Intermediate
+235,16,DevOps,Intermediate
+235,17,Machine Learning,Beginner
+236,4,C,Beginner
+236,24,Cloud Computing,Beginner
+236,15,Python,Beginner
+237,23,Data Structures,Intermediate
+237,24,Cloud Computing,Advanced
+237,2,Java Swing,Beginner
+237,11,JavaScript,Advanced
+238,16,DevOps,Beginner
+238,9,HTML,Beginner
+238,26,Networking Fundamentals,Advanced
+238,10,CSS,Advanced
+239,17,Machine Learning,Beginner
+239,22,PowerBI,Intermediate
+239,3,SQL,Intermediate
+239,18,Data Analysis,Beginner
+240,5,C#,Advanced
+240,30,Recruitment and Selection,Beginner
+240,6,C++,Intermediate
+240,25,Cybersecurity,Intermediate
+240,10,CSS,Intermediate
+241,3,SQL,Advanced
+241,6,C++,Intermediate
+241,2,Java Swing,Intermediate
+241,7,Go,Beginner
+242,27,Agile Methodologies,Intermediate
+242,20,Snowflake,Beginner
+242,31,HR Information Systems (HRIS),Intermediate
+242,21,Azure,Beginner
+242,32,Conflict Resolution,Intermediate
+243,22,PowerBI,Intermediate
+244,14,TypeScript,Beginner
+244,6,C++,Intermediate
+244,24,Cloud Computing,Advanced
+245,23,Data Structures,Intermediate
+245,30,Recruitment and Selection,Advanced
+245,12,Node.js,Intermediate
+245,32,Conflict Resolution,Beginner
+245,31,HR Information Systems (HRIS),Beginner
+246,18,Data Analysis,Intermediate
+246,1,Java,Beginner
+246,12,Node.js,Beginner
+246,11,JavaScript,Advanced
+246,17,Machine Learning,Beginner
+247,10,CSS,Advanced
+247,1,Java,Intermediate
+248,22,PowerBI,Advanced
+248,18,Data Analysis,Intermediate
+248,8,Django,Beginner
+249,21,Azure,Intermediate
+250,12,Node.js,Beginner
+250,13,Next.js,Intermediate
+250,10,CSS,Advanced
+250,4,C,Intermediate
+250,1,Java,Intermediate
+251,20,Snowflake,Intermediate
+251,16,DevOps,Beginner
+251,32,Conflict Resolution,Advanced
+251,26,Networking Fundamentals,Advanced
+251,8,Django,Advanced
+252,30,Recruitment and Selection,Advanced
+252,27,Agile Methodologies,Advanced
+253,12,Node.js,Intermediate
+253,30,Recruitment and Selection,Intermediate
+253,18,Data Analysis,Advanced
+253,29,Performance Management,Intermediate
+253,11,JavaScript,Advanced
+254,30,Recruitment and Selection,Intermediate
+255,28,Employee Relations,Beginner
+255,3,SQL,Beginner
+255,24,Cloud Computing,Advanced
+255,9,HTML,Intermediate
+256,14,TypeScript,Advanced
+256,32,Conflict Resolution,Intermediate
+256,6,C++,Advanced
+256,15,Python,Intermediate
+257,26,Networking Fundamentals,Beginner
+257,23,Data Structures,Intermediate
+257,16,DevOps,Beginner
+258,21,Azure,Beginner
+258,18,Data Analysis,Beginner
+258,26,Networking Fundamentals,Beginner
+258,23,Data Structures,Advanced
+259,25,Cybersecurity,Intermediate
+260,6,C++,Beginner
+260,30,Recruitment and Selection,Intermediate
+261,31,HR Information Systems (HRIS),Beginner
+262,3,SQL,Advanced
+262,16,DevOps,Advanced
+262,8,Django,Beginner
+262,26,Networking Fundamentals,Advanced
+262,7,Go,Beginner
+263,32,Conflict Resolution,Intermediate
+264,18,Data Analysis,Beginner
+264,28,Employee Relations,Beginner
+264,25,Cybersecurity,Advanced
+265,30,Recruitment and Selection,Intermediate
+266,8,Django,Beginner
+266,6,C++,Beginner
+266,29,Performance Management,Advanced
+266,12,Node.js,Advanced
+267,28,Employee Relations,Beginner
+267,3,SQL,Beginner
+267,16,DevOps,Advanced
+268,31,HR Information Systems (HRIS),Beginner
+268,25,Cybersecurity,Beginner
+268,12,Node.js,Advanced
+268,22,PowerBI,Intermediate
+268,27,Agile Methodologies,Beginner
+269,18,Data Analysis,Beginner
+269,16,DevOps,Beginner
+269,13,Next.js,Intermediate
+269,28,Employee Relations,Advanced
+270,30,Recruitment and Selection,Advanced
+270,5,C#,Intermediate
+270,8,Django,Intermediate
+270,4,C,Advanced
+271,32,Conflict Resolution,Advanced
+271,18,Data Analysis,Advanced
+271,13,Next.js,Beginner
+271,12,Node.js,Beginner
+272,5,C#,Advanced
+272,26,Networking Fundamentals,Advanced
+273,11,JavaScript,Advanced
+273,1,Java,Beginner
+274,21,Azure,Advanced
+275,31,HR Information Systems (HRIS),Beginner
+276,6,C++,Intermediate
+276,20,Snowflake,Beginner
+276,27,Agile Methodologies,Beginner
+276,12,Node.js,Advanced
+277,20,Snowflake,Beginner
+277,5,C#,Advanced
+278,6,C++,Beginner
+278,24,Cloud Computing,Beginner
+278,19,DBT,Intermediate
+278,7,Go,Beginner
+278,23,Data Structures,Beginner
+279,21,Azure,Beginner
+279,6,C++,Intermediate
+279,14,TypeScript,Beginner
+279,16,DevOps,Beginner
+279,20,Snowflake,Intermediate
+280,30,Recruitment and Selection,Intermediate
+280,27,Agile Methodologies,Advanced
+280,25,Cybersecurity,Beginner
+280,15,Python,Intermediate
+280,26,Networking Fundamentals,Intermediate
+281,19,DBT,Beginner
+282,6,C++,Intermediate
+283,19,DBT,Beginner
+283,24,Cloud Computing,Advanced
+283,14,TypeScript,Beginner
+283,20,Snowflake,Advanced
+283,3,SQL,Intermediate
+284,19,DBT,Advanced
+284,20,Snowflake,Intermediate
+284,1,Java,Intermediate
+285,15,Python,Beginner
+285,3,SQL,Beginner
+285,21,Azure,Intermediate
+286,2,Java Swing,Beginner
+287,31,HR Information Systems (HRIS),Beginner
+287,10,CSS,Advanced
+288,30,Recruitment and Selection,Intermediate
+288,1,Java,Beginner
+288,21,Azure,Beginner
+288,20,Snowflake,Advanced
+288,5,C#,Intermediate
+289,6,C++,Beginner
+290,13,Next.js,Advanced
+290,26,Networking Fundamentals,Intermediate
+290,29,Performance Management,Intermediate
+290,5,C#,Advanced
+291,12,Node.js,Intermediate
+291,20,Snowflake,Beginner
+291,23,Data Structures,Beginner
+292,25,Cybersecurity,Advanced
+292,29,Performance Management,Intermediate
+292,9,HTML,Beginner
+292,26,Networking Fundamentals,Intermediate
+292,12,Node.js,Advanced
+293,2,Java Swing,Beginner
+293,21,Azure,Beginner
+293,7,Go,Advanced
+293,11,JavaScript,Beginner
+293,8,Django,Advanced
+294,12,Node.js,Intermediate
+295,26,Networking Fundamentals,Beginner
+295,1,Java,Beginner
+296,22,PowerBI,Advanced
+296,12,Node.js,Advanced
+297,21,Azure,Beginner
+297,19,DBT,Intermediate
+297,22,PowerBI,Intermediate
+298,5,C#,Advanced
+298,17,Machine Learning,Advanced
+299,13,Next.js,Advanced
+299,12,Node.js,Beginner
+299,9,HTML,Advanced
+300,8,Django,Beginner
+300,14,TypeScript,Intermediate
+300,31,HR Information Systems (HRIS),Advanced
+300,19,DBT,Beginner

@@ -1,0 +1,75 @@
+designation_id,courseId,course_skill_name,proficiency_level
+1,3,Java,Advanced
+1,2,SQL,Beginner
+1,25,SQL,Advanced
+1,9,Python,Intermediate
+1,13,Python,Intermediate
+1,27,Python,Advanced
+2,3,Java,Advanced
+2,2,SQL,Beginner
+2,25,SQL,Advanced
+2,9,Python,Intermediate
+2,13,Python,Intermediate
+2,27,Python,Advanced
+2,4,DevOps,Beginner
+2,22,DevOps,Beginner
+2,27,DevOps,Advanced
+2,28,DevOps,Advanced
+3,24,Django,Beginner
+3,28,Django,Advanced
+3,30,Django,Intermediate
+3,9,Machine Learning,Intermediate
+3,10,Machine Learning,Intermediate
+3,15,Machine Learning,Intermediate
+3,20,Machine Learning,Beginner
+3,8,Data Analysis,Beginner
+3,29,Data Analysis,Beginner
+4,2,SQL,Beginner
+4,25,SQL,Advanced
+4,11,HTML,Advanced
+4,17,HTML,Beginner
+4,18,HTML,Beginner
+4,20,HTML,Beginner
+4,22,HTML,Beginner
+4,23,HTML,Beginner
+4,8,Data Analysis,Beginner
+4,29,Data Analysis,Beginner
+5,9,Python,Intermediate
+5,13,Python,Intermediate
+5,27,Python,Advanced
+5,29,DBT,Beginner
+5,9,Azure,Intermediate
+5,16,Azure,Intermediate
+5,18,Azure,Beginner
+5,24,Azure,Beginner
+6,13,Snowflake,Intermediate
+6,11,PowerBI,Advanced
+6,14,Cybersecurity,Beginner
+6,15,Cybersecurity,Intermediate
+6,19,Cybersecurity,Intermediate
+7,1,Agile Methodologies,Beginner
+7,9,Agile Methodologies,Intermediate
+7,13,Agile Methodologies,Intermediate
+7,20,Agile Methodologies,Beginner
+7,2,Employee Relations,Beginner
+7,22,Employee Relations,Beginner
+7,25,Employee Relations,Advanced
+8,3,Performance Management,Advanced
+8,22,Performance Management,Beginner
+8,1,HR Information Systems (HRIS),Beginner
+8,3,HR Information Systems (HRIS),Advanced
+8,8,HR Information Systems (HRIS),Beginner
+8,12,HR Information Systems (HRIS),Intermediate
+8,26,HR Information Systems (HRIS),Advanced
+9,3,Performance Management,Advanced
+9,22,Performance Management,Beginner
+9,1,Agile Methodologies,Beginner
+9,9,Agile Methodologies,Intermediate
+9,13,Agile Methodologies,Intermediate
+9,20,Agile Methodologies,Beginner
+10,2,Employee Relations,Beginner
+10,22,Employee Relations,Beginner
+10,25,Employee Relations,Advanced
+10,8,Recruitment and Selection,Beginner
+10,24,Recruitment and Selection,Beginner
+10,26,Recruitment and Selection,Advanced

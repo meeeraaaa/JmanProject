@@ -1,0 +1,28 @@
+designation_id,skill_id,name
+1,1,Java
+1,3,SQL
+1,15,Python
+2,1,Java
+2,3,SQL
+2,15,Python
+2,16,DevOps
+3,8,Django
+3,17,Machine Learning
+3,18,Data Analysis
+4,3,SQL
+4,9,HTML
+4,18,Data Analysis
+5,15,Python
+5,19,DBT
+5,21,Azure
+6,20,Snowflake
+6,22,PowerBI
+6,25,Cybersecurity
+7,27,Agile Methodologies
+7,28,Employee Relations
+8,29,Performance Management
+8,31,HR Information Systems (HRIS)
+9,29,Performance Management
+9,27,Agile Methodologies
+10,28,Employee Relations
+10,30,Recruitment and Selection

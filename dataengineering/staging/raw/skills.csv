@@ -1,0 +1,71 @@
+id,name
+1,Java
+2,Java Swing
+3,SQL
+4,C
+5,C#
+6,C++
+7,Go
+8,Django
+9,HTML
+10,CSS
+11,JavaScript
+12,Node.js
+13,Next.js
+14,TypeScript
+15,Python
+16,DevOps
+17,Machine Learning
+18,Data Analysis
+19,DBT
+20,Snowflake
+21,Azure
+22,Power BI
+23,Data Structures
+24,Cloud Computing
+25,Cybersecurity
+26,Networking Fundamentals
+27,Agile Methodologies
+28,Employee Relations
+29,Performance Management
+30,Recruitment and Selection
+31,HR Information Systems (HRIS)
+32,Conflict Resolution
+33,Digital Marketing
+34,Product Management
+35,User Experience (UX) Design
+36,Graphic Design
+37,Mobile App Development
+38,Web Development
+39,Game Development
+40,Data Science
+41,Big Data Technologies
+42,Statistics
+43,Cloud Security
+44,Information Architecture
+45,Technical Writing
+46,Content Strategy
+47,Salesforce
+48,Adobe Creative Suite
+49,Quality Assurance (QA)
+50,API Development
+51,Microservices Architecture
+52,Blockchain
+53,Augmented Reality (AR)
+54,Virtual Reality (VR)
+55,Customer Relationship Management (CRM)
+56,Social Media Management
+57,Research and Development (R&D)
+58,Change Management
+59,Public Speaking
+60,Negotiation Skills
+61,Time Management
+62,Team Leadership
+63,Financial Analysis
+64,Market Research
+65,Web Analytics
+66,Compliance and Risk Management
+67,ITIL Framework
+68,Lean Methodology
+69,Continuous Improvement
+70,Talent Acquisition

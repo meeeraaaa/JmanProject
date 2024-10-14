@@ -1,0 +1,88 @@
+courseId,skillId,name,proficiency_level
+1,27,Agile Methodologies,Beginner
+1,31,HR Information Systems (HRIS),Beginner
+2,28,Employee Relations,Beginner
+2,6,C++,Beginner
+2,3,SQL,Beginner
+3,29,Performance Management,Advanced
+3,13,Next.js,Advanced
+3,31,HR Information Systems (HRIS),Advanced
+3,26,Networking Fundamentals,Advanced
+3,1,Java,Advanced
+4,16,DevOps,Beginner
+4,7,Go,Beginner
+5,10,CSS,Advanced
+6,5,C#,Intermediate
+7,7,Go,Advanced
+8,31,HR Information Systems (HRIS),Beginner
+8,30,Recruitment and Selection,Beginner
+8,18,Data Analysis,Beginner
+8,7,Go,Beginner
+9,15,Python,Intermediate
+9,17,Machine Learning,Intermediate
+9,14,TypeScript,Intermediate
+9,27,Agile Methodologies,Intermediate
+9,21,Azure,Intermediate
+10,17,Machine Learning,Intermediate
+11,9,HTML,Advanced
+11,22,PowerBI,Advanced
+11,24,Cloud Computing,Advanced
+12,31,HR Information Systems (HRIS),Intermediate
+12,23,Data Structures,Intermediate
+13,11,JavaScript,Intermediate
+13,27,Agile Methodologies,Intermediate
+13,15,Python,Intermediate
+13,20,Snowflake,Intermediate
+13,7,Go,Intermediate
+14,25,Cybersecurity,Beginner
+14,7,Go,Beginner
+15,17,Machine Learning,Intermediate
+15,25,Cybersecurity,Intermediate
+16,5,C#,Intermediate
+16,21,Azure,Intermediate
+17,24,Cloud Computing,Beginner
+17,9,HTML,Beginner
+18,9,HTML,Beginner
+18,5,C#,Beginner
+18,21,Azure,Beginner
+19,25,Cybersecurity,Intermediate
+19,26,Networking Fundamentals,Intermediate
+19,12,Node.js,Intermediate
+20,9,HTML,Beginner
+20,14,TypeScript,Beginner
+20,23,Data Structures,Beginner
+20,27,Agile Methodologies,Beginner
+20,17,Machine Learning,Beginner
+21,23,Data Structures,Advanced
+21,5,C#,Advanced
+21,10,CSS,Advanced
+22,16,DevOps,Beginner
+22,29,Performance Management,Beginner
+22,9,HTML,Beginner
+22,28,Employee Relations,Beginner
+23,9,HTML,Beginner
+24,21,Azure,Beginner
+24,4,C,Beginner
+24,8,Django,Beginner
+24,30,Recruitment and Selection,Beginner
+24,11,JavaScript,Beginner
+25,3,SQL,Advanced
+25,4,C,Advanced
+25,28,Employee Relations,Advanced
+25,13,Next.js,Advanced
+26,4,C,Advanced
+26,30,Recruitment and Selection,Advanced
+26,31,HR Information Systems (HRIS),Advanced
+27,16,DevOps,Advanced
+27,32,Conflict Resolution,Advanced
+27,15,Python,Advanced
+27,5,C#,Advanced
+28,10,CSS,Advanced
+28,14,TypeScript,Advanced
+28,8,Django,Advanced
+28,16,DevOps,Advanced
+28,23,Data Structures,Advanced
+29,19,DBT,Beginner
+29,7,Go,Beginner
+29,18,Data Analysis,Beginner
+30,8,Django,Intermediate
